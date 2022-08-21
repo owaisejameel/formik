@@ -12,7 +12,7 @@ function App() {
       </div>
       <div className="col-md-7">
         <div className="container mt-5">
-
+          <h1>signup</h1>
         <img src="img.jpg" alt="sideimage~" />
         </div>
       </div>
